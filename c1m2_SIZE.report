@@ -1,0 +1,24 @@
+c1m2.out  :
+section             size         addr
+.text              28200   5368713216
+.data                256   5368741888
+.rdata              3520   5368745984
+.pdata              1212   5368750080
+.xdata              1128   5368754176
+.bss                2976   5368758272
+.idata              1844   5368762368
+.CRT                 104   5368766464
+.tls                  16   5368770560
+.reloc               140   5368774656
+.debug_aranges      1488   5368778752
+.debug_info        64715   5368782848
+.debug_abbrev      11806   5368848384
+.debug_line        25847   5368860672
+.debug_frame        8680   5368889344
+.debug_str           419   5368901632
+.debug_line_str     8799   5368905728
+.debug_loclists    29986   5368918016
+.debug_rnglists     1183   5368950784
+Total             192319
+
+
